@@ -19,10 +19,11 @@
   },
   "homepage": "https://github.com/picunz/nodeapp#readme",
   "engines": {
-    "node": "16.x"
+    "node": ">=16.17.0"
   },
   "scripts": 
   {
-    "start": "node app.js"
+    "start": "node app.js",
+    "npm": ">=8.15.0"
   }
 }
